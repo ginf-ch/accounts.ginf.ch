@@ -5,8 +5,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=sass
 
 ### bulma.io ###
-pycharm/bulma
-phpstorm/bulma
+jetbrains/bulma
 
 ### Sass ###
 .sass-cache/
