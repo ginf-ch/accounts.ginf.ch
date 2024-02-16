@@ -2,4 +2,4 @@
 
 ## JetBrains
 
-- Account mit Free Educational Licenses
+- Account mit Free Educational Licenses: https://accounts.ginf.ch/jetbrains
