@@ -1,2 +1,5 @@
-# accounts.ginf.ch
-Installationsanleitungen für Accounts
+# Installationsanleitung für Accounts
+
+## JetBrains
+
+- Account mit Free Educational Licenses
