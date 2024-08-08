@@ -1,5 +1,5 @@
-# Installationsanleitung für Accounts
+# Imperatives Programmieren
 
-## JetBrains
+Website mit Links zu Subdomains rund um das imperative Programmieren.
 
-- Account mit Free Educational Licenses: https://accounts.ginf.ch/jetbrains
+(https://iprog.ginf.ch)[https://iprog.ginf.ch]
